@@ -1,0 +1,19 @@
+temperatura=int(input("ingresar la temperatura de la planta"))
+riego=(input("ingresar el dia de la semana"))
+martes=("riego")
+jueves=("riego")
+sabado=("riego ")
+if temperatura<20:
+  print=("LLevarla adentro de casa")
+
+if temperatura>20<35:
+  print=("Buenas condiciones")
+
+if(martes== "riego"):
+ print=("regar a rubi")
+  
+if(jueves=="riego"):
+  print=("regar a rubi")
+
+if(sabado=="riego"):
+  print=("regar a rubi ")
